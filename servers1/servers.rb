@@ -10,5 +10,5 @@ while true
   socket.puts "You said: #{they_said}"
 end
 
-socket.puts "You said: #{they_said}. Goodbye!"
+socket.puts "Goodbye!"
 socket.close
